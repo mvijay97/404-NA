@@ -23,7 +23,7 @@ For accessing the actual functions and data:
 All the functions that generate the similarity matrices, preference scores etc, are contained in the folder 'modules'
 The cleaned and pruned data is contained in the folder 'data'
 
-The main code that generates the final recommendations by calling the required functions is contained in the ipynb called 'main.py'
+The main code that generates the final recommendations by calling the required functions is contained in the ipynb called 'main.ipynb'
 
 Note: Since the Review file is too large to upload, it can be found here: https://drive.google.com/open?id=1sTS6Lkxw7PFuwSNXVzC6_Zm0xXDn4bv-
 ----
